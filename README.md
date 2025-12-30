@@ -5,7 +5,7 @@
 # Extra Informationℹ
 **Mechanics:**
 1. Attack
-2. Defense
+2. Defense (HP Regeneration)
 3. СounterAttack from the dragon
 
 **Characteristics:**
